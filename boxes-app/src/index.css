@@ -1,0 +1,12 @@
+body {
+  color: black;
+  background-color: bisque;
+  margin-top: 50px;
+  margin-left: 50px;
+  padding: 100;
+  font-family: sans-serif;
+}
+
+div {
+  padding: 10px;
+}
